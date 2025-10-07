@@ -17,6 +17,7 @@ cd <repo-folder>
 ```
 2.Install dependencies:
 `npm install`
+
 3.Run Storybook locally:
 `npm run storybook`
 
