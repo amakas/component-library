@@ -21,7 +21,7 @@ cd component-library
 3.Run Storybook locally:
 `npm run storybook`
 
-##Screenshots
+## Screenshots
 <img width="2004" height="1232" alt="localhost_6006__path=_story_components-input--default" src="https://github.com/user-attachments/assets/3118fe57-0511-4b2e-9893-e51247cc89f7" />
 <img width="2004" height="1232" alt="localhost_6006__path=_story_components-input--default (1)" src="https://github.com/user-attachments/assets/44b8807a-28b1-4481-bf4a-406c3ec2428c" />
 <img width="2004" height="1232" alt="localhost_6006__path=_story_components-input--default (2)" src="https://github.com/user-attachments/assets/e154f2b0-7332-498c-b539-633706a9a3ee" />
